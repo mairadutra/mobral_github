@@ -4,14 +4,14 @@
 Você caiu nessas páginas pelo Google,  leu e releu os readme.md e ainda não sabe como usar esse site?
 Talvez seus problemas acabem agora, talvez você arrume mais alguns, mas a ideia desse guia é tentar ajudar a sobreviver ao GitHub.
 
-#Começando: o que é GitHub?
+# Começando: o que é GitHub?
 
 É um site que permite que você hospede seus projetos. Ok, mas para que eu vou querer deixar meus projetos hospedados aí? Porque outras pessoas podem ver seus projetos, baixá-los, olhar o seu código… E você também pode ver o código dos outros, participar de projetos e seguir outros desenvolvedores.
 Hum.. Isso soa como uma rede social. É isso mesmo? É, praticamente. E o melhor é que você pode seguir a galera super foda da sua área, tentar interagir, aprender muitas coisas e sem precisar emitir sua opinião sobre política e futebol, como faz la na rede social do tio Mark.
 
 Entendi, mas:
 
-#E como eu faço para usar essa resposta da busca que o Google me deu?
+# E como eu faço para usar essa resposta da busca que o Google me deu?
 
 Primeiro você lerá mesmo o README.md, do projeto. O  README.md é o arquivo de “apresentação” do projeto. Ele contem as informações sobre a estrutura,que enfatizam a lista de funcionalidades, o que ele faz e, o mais importante, como ele pode te ajuda.
 
@@ -36,11 +36,11 @@ b) Ou você faz do jeito chique de ser e começa a aprender =):
   ```
 Pronto! Agora o projeto está na pasta. Sorria e vá aprender o que ele te ensina.
 
-#Mas e se eu quiser aprender mais?
+# Mas e se eu quiser aprender mais?
 
 Ótima escolha! Vamos começar, logicamente, pelo começo:
 
-#Criando uma conta:
+# Criando uma conta:
 
 Para criar sua conta no Github acesse:
 
@@ -52,7 +52,7 @@ Clique em *Create an Account*.
 
 E Pronto! Você já tem uma conta!
 
-#Registrando sua máquina:
+# Registrando sua máquina:
 Já que você tem uma conta, vamos contar para o Github qual máquina você usará para subir seus códigos para lá.
 
 Vamos novamente ao prompt de comando para configurar tudo:
@@ -112,7 +112,7 @@ Se não der certo,  com plano B, acesse sua pasta de usuário (C:\Users\seuusuar
  e) Clique em Add SSH Key e tudo pronto. Podemos, finalmente, criar nosso próprio
   repositório.
 
-#Criando um repositório para seu código
+# Criando um repositório para seu código
 
 Como já temos conta e  máquina autorizada, falta  só criar um repositório para seu projeto:
 
@@ -124,7 +124,7 @@ Como já temos conta e  máquina autorizada, falta  só criar um repositório pa
 
   ![Passo 7](imagem/7.png)
 
-#Subindo os arquivos
+# Subindo os arquivos
 
 Com o repositório criado, já podemos mandar arquivos para ele.
 
